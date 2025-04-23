@@ -1,6 +1,14 @@
 # ComputerSciencePortfolio
 My personal portfolio.
 
+CS 305 Final Project: Checksum Verification Application for Artemis Financial
+
+For the project's case scenario, Artemis Financial is a client in the financial services industry committed to modernizing its operations while prioritizing the protection of sensitive client and financial data. As part of this initiative, the company sought to enhance its web application by introducing a secure file verification process to ensure the integrity of data during transfers. Specifically, they required the integration of a checksum mechanism to detect any tampering or corruption in transmitted files. My role was to implement this security feature while preserving the stability and functionality of the existing application, using industry-standard best practices for secure software development.
+
+One of the most challenging aspects of the vulnerability assessment was dealing with false positives from the dependency check report. To increase layers of security, I implemented checksum verification, ensured error handling was done securely, and reviewed input/output flows to prevent injection and encoding vulnerabilities. To ensure the application remained functional and secure after refactoring, I performed thorough testing and code reviews. Throughout this project, I used tools like OWASP Dependency-Check and followed secure coding practices, such as avoiding hard-coded values, validating input, and applying output encoding. For future employers, I would highlight this assignment as a strong example of my ability to integrate secure features into legacy code, create and test certificates for dynamic testing, assess and manage vulnerabilities, and maintain system stability.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 CS 370 Final Project: Pirate Agent Deep Q Learning
 
 The work I did on this project from the CS 370 course, Current/Emerging Trends in CS where we learned about Machine Learning. The work that was given to me were the two python classes of GameExperience.py and TreasureMaze.py
