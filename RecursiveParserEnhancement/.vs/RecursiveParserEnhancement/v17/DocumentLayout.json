@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\antim\\Desktop\\Enhancement_Two_Submission\\RecursiveParserEnhancement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B920BC-7E92-4B4A-914D-198EFAC50652}|RecursiveParserEnhancement\\RecursiveParserEnhancement.vcxproj|C:\\Users\\antim\\Desktop\\Enhancement_Two_Submission\\RecursiveParserEnhancement\\RecursiveParserEnhancement\\RecursiveParserEnhancement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6B920BC-7E92-4B4A-914D-198EFAC50652}|RecursiveParserEnhancement\\RecursiveParserEnhancement.vcxproj|solutionrelative:RecursiveParserEnhancement\\RecursiveParserEnhancement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecursiveParserEnhancement.cpp",
+              "DocumentMoniker": "C:\\Users\\antim\\Desktop\\Enhancement_Two_Submission\\RecursiveParserEnhancement\\RecursiveParserEnhancement\\RecursiveParserEnhancement.cpp",
+              "RelativeDocumentMoniker": "RecursiveParserEnhancement\\RecursiveParserEnhancement.cpp",
+              "ToolTip": "C:\\Users\\antim\\Desktop\\Enhancement_Two_Submission\\RecursiveParserEnhancement\\RecursiveParserEnhancement\\RecursiveParserEnhancement.cpp",
+              "RelativeToolTip": "RecursiveParserEnhancement\\RecursiveParserEnhancement.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-23T13:33:04.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
