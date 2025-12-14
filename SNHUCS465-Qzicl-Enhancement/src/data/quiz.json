@@ -1,0 +1,498 @@
+{
+    "topic": [
+        {
+            "topicID": 1,
+            "title": "Basic Math",
+            "repetitions": 0,
+            "quiz": [
+                {
+                    "questionID": 1,
+                    "question": "What is 9 + 10?",
+                    "options": [
+                        "910",
+                        "109",
+                        "21",
+                        "19"
+                    ],
+                    "answer": "19"
+                },
+                {
+                    "questionID": 2,
+                    "question": "What is 6 squared?",
+                    "options": [
+                        "2.45",
+                        "12",
+                        "36",
+                        "720"
+                    ],
+                    "answer": "36"
+                },
+                {
+                    "questionID": 3,
+                    "question": "What is 5 divided by 1?",
+                    "options": [
+                        "5",
+                        "4",
+                        "1",
+                        "0"
+                    ],
+                    "answer": "5"
+                },
+                {
+                    "questionID": 4,
+                    "question": "What is 3 * 0 + 11?",
+                    "options": [
+                        "0",
+                        "11",
+                        "14",
+                        "33"
+                    ],
+                    "answer": "11"
+                },
+                {
+                    "questionID": 5,
+                    "question": "What is 4 - 8?",
+                    "options": [
+                        "0",
+                        "4",
+                        "-4",
+                        "-8"
+                    ],
+                    "answer": "-4"
+                },
+                {
+                    "questionID": 6,
+                    "question": "Steve just got hired at his new job. He should make $18.50 an hour. How much would he get paid if he worked 20 hours a week?",
+                    "options": [
+                        "$185",
+                        "$370",
+                        "$18.50",
+                        "$129.50"
+                    ],
+                    "answer": "$370"
+                },
+                {
+                    "questionID": 7,
+                    "question": "What is 60% of 220?",
+                    "options": [
+                        "100",
+                        "108",
+                        "132",
+                        "144"
+                    ],
+                    "answer": "132"
+                },
+                {
+                    "questionID": 8,
+                    "question": "6x = 18. Find x",
+                    "options": [
+                        "x = 2",
+                        "x = 3",
+                        "x = 4",
+                        "x = 5"
+                    ],
+                    "answer": "x = 3"
+                }, 
+                {
+                    "questionID": 9,
+                    "question": "Which of the following is a prime number?",
+                    "options": [
+                        "27",
+                        "47",
+                        "121",
+                        "261"
+                    ],
+                    "answer": "47"
+                },
+                {
+                    "questionID": 10,
+                    "question": "Which value is the most accurate to the equivalent of pi?",
+                    "options": [
+                        "3.14",
+                        "3.14159",
+                        "3.14915",
+                        "3.14915765"
+                    ],
+                    "answer": "3.14159"
+                }
+            ],
+            "session": {
+                "sessionTime": "",
+                
+                "score": 0
+            }
+        },
+        {
+            "topicID": 2,
+            "title": "Geography",
+            "repetitions": 0,
+            "quiz": [
+                {
+                    "questionID": 1,
+                    "question": "What is the capital of France?",
+                    "options": [
+                        "Berlin",
+                        "Madrid",
+                        "Paris",
+                        "Rome"
+                    ],
+                    "answer": "Paris"
+                },
+                {
+                    "questionID": 2,
+                    "question": "What EU capital is west-northwest of Brussels?",
+                    "options": [
+                        "Amsterdam",
+                        "Madrid",
+                        "Paris",
+                        "London"
+                    ],
+                    "answer": "London"
+                },
+                {
+                    "questionID": 3,
+                    "question": "The largest EU capital by area is?",
+                    "options": [
+                        "Rome",
+                        "Berlin",
+                        "Amsterdam",
+                        "Madrid"
+                    ],
+                    "answer": "Berlin"
+                },
+                {
+                    "questionID": 4,
+                    "question": "Which country is NOT in the United Kingdom union?",
+                    "options": [
+                        "Scotland",
+                        "Ireland",
+                        "England",
+                        "Wales"
+                    ],
+                    "answer": "Ireland"
+                },
+                {
+                    "questionID": 5,
+                    "question": "Where is Mt. Everest Located?",
+                    "options": [
+                        "India",
+                        "United States",
+                        "China",
+                        "Nepal"
+                    ],
+                    "answer": "Nepal"
+                },
+                {
+                    "questionID": 6,
+                    "question": "Which country has an exclave?",
+                    "options": [
+                        "South Korea",
+                        "South Africa",
+                        "Russia",
+                        "Israel"
+                    ],
+                    "answer": "Russia"
+                },
+                {
+                    "questionID": 7,
+                    "question": "Which country has the northenmost point on the globe?",
+                    "options": [
+                        "Norway",
+                        "Canada",
+                        "Russia",
+                        "Greenland"
+                    ],
+                    "answer": "Greenland"
+                },
+                {
+                    "questionID": 8,
+                    "question": "What is the capital of Turkey?",
+                    "options": [
+                        "Thanksgiving",
+                        "Athens",
+                        "Istanbul",
+                        "Damascus"
+                    ],
+                    "answer": "Istanbul"
+                },
+                {
+                    "questionID": 9,
+                    "question": "Which ocean has Point Nemo, the farthest point from land?",
+                    "options": [
+                        "Atlantic",
+                        "Pacific",
+                        "Indian",
+                        "Southern"
+                    ],
+                    "answer": "Pacific"
+                },
+                {
+                    "questionID": 10,
+                    "question": "Which country is not Baltic?",
+                    "options": [
+                        "Lithuania",
+                        "Latvia",
+                        "Estonia",
+                        "Moldova"
+                    ],
+                    "answer": "Moldova"
+                }
+                
+            ],
+            "session": {
+                "sessionTime": "",
+                
+                "score": 0
+            }
+        },
+        {
+            "topicID": 3,
+            "title": "History",
+            "repetitions": 0,
+            "quiz": [
+                {
+                    "questionID": 1,
+                    "question": "Who was the 16th president of america?",
+                    "options": [
+                        "George Washington",
+                        "James Buchanan",
+                        "Abraham Lincoln",
+                        "George H. W. Bush"
+                    ],
+                    "answer": "Abraham Lincoln"
+                },
+                {
+                    "questionID": 2,
+                    "question": "What was the gulf south of Florida NOT called?",
+                    "options": [
+                        "Gulf of Florida",
+                        "Gulf of Cuba",
+                        "Gulf of Mexico",
+                        "Gulf of America"
+                    ],
+                    "answer": "Gulf of Cuba"
+                },
+                {
+                    "questionID": 3,
+                    "question": "Who founded the idea of communism?",
+                    "options": [
+                        "Joseph Stalin",
+                        "Mao Zedong",
+                        "Fidel Castro",
+                        "Karl Marx"
+                    ],
+                    "answer": "Karl Marx"
+                },
+                {
+                    "questionID": 4,
+                    "question": "Which country sent the first rocket to space?",
+                    "options": [
+                        "United States",
+                        "Russia",
+                        "Germany",
+                        "Japan"
+                    ],
+                    "answer": "Russia"
+                },
+                {
+                    "questionID": 5,
+                    "question": "Which country did not declare independence from Britain?",
+                    "options": [
+                        "India",
+                        "Sri Lanka",
+                        "Mozambique",
+                        "Kenya"
+                    ],
+                    "answer": "Mozambique"
+                },
+                {
+                    "questionID": 6,
+                    "question": "In what year did the titanic sink?",
+                    "options": [
+                        "1912",
+                        "1914",
+                        "1916",
+                        "1918"
+                    ],
+                    "answer": "1912"
+                },
+                {
+                    "questionID": 7,
+                    "question": "When was the United States founded?",
+                    "options": [
+                        "1492",
+                        "1776",
+                        "1792",
+                        "1809"
+                    ],
+                    "answer": "1776"
+                },
+                {
+                    "questionID": 8,
+                    "question": "When did rome fall?",
+                    "options": [
+                        "133 BC",
+                        "27 BC",
+                        "180 AD",
+                        "476 AD"
+                    ],
+                    "answer": "476 AD"
+                },
+                {
+                    "questionID": 9,
+                    "question": "Which country no longer exists?",
+                    "options": [
+                        "Kyrgyzstan",
+                        "Serbia",
+                        "Atlantis",
+                        "Yugoslavia"
+                    ],
+                    "answer": "Yugoslavia"
+                },
+                {
+                    "questionID": 10,
+                    "question": "Who invented the atomic bomb?",
+                    "options": [
+                        "Albert Einstein",
+                        "J. Robert Oppenheimer",
+                        "Leslie Groves",
+                        "Franklin Delano Roosevelt"
+                    ],
+                    "answer": "J. Robert Oppenheimer"
+                }
+                
+            ],
+            "session": {
+                "sessionTime": "",
+            
+                "score": 0
+            }
+        },
+        {
+            "topicID": 4,
+            "title": "Science",
+            "repetitions": 0,
+            "quiz": [
+                {
+                    "questionID": 1,
+                    "question": "What is the powerhouse of the cell?",
+                    "options": [
+                        "Nucleus",
+                        "Ribosomes",
+                        "Mitochondria",
+                        "Chloroplast"
+                    ],
+                    "answer": "Mitochondria"
+                },
+                {
+                    "questionID": 2,
+                    "question": "What is not a tectonic boundary?",
+                    "options": [
+                        "Convergent boundary",
+                        "Transform boundary",
+                        "Divergent boudary",
+                        "Emerging boundary"
+                    ],
+                    "answer": "Emerging boundary"
+                },
+                {
+                    "questionID": 3,
+                    "question": "What concept does newton's first law explain?",
+                    "options": [
+                        "Momentum",
+                        "Force",
+                        "Gravity",
+                        "Inertia"
+                    ],
+                    "answer": "Inertia"
+                },
+                {
+                    "questionID": 4,
+                    "question": "What energy is produced from moving objects?",
+                    "options": [
+                        "Potential energy",
+                        "Electromagnetic energy",
+                        "Kinetic energy",
+                        "Thermal energy"
+                    ],
+                    "answer": "Kinetic energy"
+                },
+                {
+                    "questionID": 5,
+                    "question": "What is the molecule composition of water?",
+                    "options": [
+                        "2 Hydrogen 1 Oxygen",
+                        "1 Hydrogen 2 Oxygen",
+                        "2 Hydrogen 2 Oxygen",
+                        "1 Hydrogen 1 Oxygen"
+                    ],
+                    "answer": "2 Hydrogen 1 Oxygen"
+                },
+                {
+                    "questionID": 6,
+                    "question": "Why does oil float above water?",
+                    "options": [
+                        "Oil is more dense than water",
+                        "Oil is less dense than water",
+                        "Oil cannot mix with water",
+                        "Air pushes oil upwards"
+                    ],
+                    "answer": "Oil is less dense than water"
+                },
+                {
+                    "questionID": 7,
+                    "question": "What is the largest planet in the solar system?",
+                    "options": [
+                        "Earth",
+                        "Saturn",
+                        "Jupiter",
+                        "Mars"
+                    ],
+                    "answer": "Jupiter"
+                },
+                {
+                    "questionID": 8,
+                    "question": "What has a higher frequency in the electromagnetic spectrum?",
+                    "options": [
+                        "Gamma rays",
+                        "Red Lights",
+                        "UV rays",
+                        "Microwaves"
+                    ],
+                    "answer": "Gamma rays"
+                },
+                {
+                    "questionID": 9,
+                    "question": "Which group in the periodic table do noble gases belong to?",
+                    "options": [
+                        "Group 1",
+                        "Group 2",
+                        "Groups 3-12",
+                        "Group 18"
+                    ],
+                    "answer": "Group 18"
+                },
+                {
+                    "questionID": 10,
+                    "question": "What is 32 degrees farenheit in celsius?",
+                    "options": [
+                        "0",
+                        "-32",
+                        "32",
+                        "19.4"
+                    ],
+                    "answer": "0"
+                }
+                
+            ],
+            "session": {
+                "sessionTime": "",
+                
+                "score": 0
+            }
+        }
+    ],
+    "settings": {
+        "questions": 10
+    }
+}
