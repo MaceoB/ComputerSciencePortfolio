@@ -1,3 +1,3 @@
-[submodule "SNHUCS465-Enhanced-Qzicl"]
-	path = SNHUCS465-Enhanced-Qzicl
+[submodule "SNHUCS465-Qzicl-Enhancement"]
+	path = SNHUCS465-Qzicl-Enhancement
 	url = https://github.com/MaceoB/SNHUCS465-Qzicl-Enhancement
