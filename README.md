@@ -13,7 +13,7 @@ Artificial Intelligence and Machine Learning, including developing algorithms, u
 
 In this portfolio, I aim to demonstrate advanced software engineering and design practices, algorithmic efficiency, and database management. Specifically, I will show the ability to design and develop scalable, interactive web applications, proficiency in using AI and machine learning APIs for generative applications, and the capacity to apply software design principles and data structure optimization to create efficient, user-oriented systems. 
 
-My goal is to become a software developer with a focus on AI-driven web applications. The skills I will demonstrate in this project such as API integration, AI model interaction, and data-driven design, will directly support my career path as a developer who builds intelligent, scalable applications that merge creativity with computational efficiency. 
+My goal is to become a software developer with a focus on AI-driven applications. The skills I will demonstrate in this project such as API integration, AI model interaction, and data-driven design, will directly support my career path as a developer who builds intelligent, scalable applications that merge creativity with computational efficiency. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
